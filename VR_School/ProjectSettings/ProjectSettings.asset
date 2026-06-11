@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 99a8325c8253c1f41a9dc8d07c0d6853
+  productGUID: 8afa28b2b90d3744382ebc89ae1827d4
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: VR_School_Project
+  productName: VR_School
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -844,14 +844,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: VR_School_Project
+  metroPackageName: VR_School
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: VR_School_Project
+  metroApplicationDescription: VR_School
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -923,10 +923,10 @@ PlayerSettings:
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
-  cloudProjectId: c59f9423-b722-42ce-b541-2839b9ca9de9
+  cloudProjectId: e46dfc68-dcdb-41d8-b310-e0ccc34cda73
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: VR_School_Project
+  projectName: VR_School
   organizationId: unity_080c7f561790bdd9c081
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
