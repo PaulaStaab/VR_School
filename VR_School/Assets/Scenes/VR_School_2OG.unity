@@ -28783,6 +28783,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -5993132730033488786, guid: 44cd89cc8e357e24ea52e354b7f36f66, type: 3}
+      propertyPath: m_Name
+      value: Floor_Plate_SecondFloor
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 44cd89cc8e357e24ea52e354b7f36f66, type: 3}
       propertyPath: m_Name
       value: 2OG
